@@ -1,0 +1,9 @@
+From: "IT Support" <it-support@examp1e-corp.test>
+To: victim@example.test
+Subject: Urgent: verify your account
+Received: from mail.attacker.test (203.0.113.10) by mx.example.test; Mon, 5 Oct 2026 09:00:00 +0000
+Authentication-Results: mx.example.test; spf=fail; dkim=none; dmarc=fail
+Content-Type: text/plain
+
+Please verify your account now: http://examp1e-corp.test/login
+Backup link: https://bit.ly.test/abc123
